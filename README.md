@@ -30,6 +30,6 @@ Bu oyun 2D bir oyun projesidir.Tasarlanırken HTML5 ve Javascript teknolojilerin
 
 ## Oyunun Görüntüsü
 
-
+![CatchTheApple](https://github.com/iremsertel/Catch-The-Apple/blob/main/oyunekran.PNG)
 
 
